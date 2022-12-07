@@ -1,0 +1,20 @@
+total 64
+drwxr-xr-x 2 root root 329 Dec  7 04:12 .
+drwxr-xr-x 5 root root  91 Dec  6 19:16 ..
+-rwxr--r-- 1 root root  26 Dec  6 22:12 0-hello_world
+-rwxr--r-- 1 root root  36 Dec  7 03:13 15-countthatword
+-rwxr--r-- 1 root root  35 Dec  7 03:24 16-whatsnext
+-rwxr--r-- 1 root root  36 Dec  7 03:19 17-hidethisword
+-rwxr--r-- 1 root root  16 Dec  7 03:28 19-AZ
+-rwxr--r-- 1 root root  29 Dec  6 23:31 1-confused_smiley
+-rwxr--r-- 1 root root  33 Dec  7 00:40 21-reverse
+-rwxr--r-- 1 root root  29 Dec  6 23:42 2-hellofile
+-rwxr--r-- 1 root root  39 Dec  6 23:46 3-twofiles
+-rwxr--r-- 1 root root  29 Dec  6 23:56 4-lastlines
+-rwxr--r-- 1 root root  29 Dec  7 00:03 5-firstlines
+-rwxr--r-- 1 root root  33 Dec  7 02:52 6-third_line
+-rwxr--r-- 1 root root  58 Dec  7 03:40 7-file
+-rwxr--r-- 1 root root  36 Dec  7 04:12 8-cwd_state
+-rwxr--r-- 1 root root  28 Dec  7 03:25 cat
+-rw-r--r-- 1 root root   0 Dec  7 04:13 ls_cwd_content
+-rw-r--r-- 1 root root 105 Dec  6 19:21 README.md
